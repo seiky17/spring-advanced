@@ -14,4 +14,6 @@
 3\. 테스트코드 연습
 
 ## 트러블슈팅
+<a href="https://devlily-1.tistory.com/40" target="_blank">
 <img alt="Tstory" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/>
+</a>
