@@ -15,5 +15,4 @@
 
 ## 트러블슈팅
 <a href="https://devlily-1.tistory.com/40" target="_blank">
-<img alt="Tstory" src ="https://img.shields.io/badge/tistory-000000.svg?&style=flat-square&logo=tistory&logoColor=white"/>
-</a>
+<img src="https://github.com/user-attachments/assets/bf360d08-77b9-4cef-aee4-4f6828be7f51" width="50" height="50"/>
